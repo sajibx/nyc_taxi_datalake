@@ -1,0 +1,5 @@
+DuckDB placeholder created at 2025-08-21 18:07:06.512628
+Source: /Users/ashiqurrahman/DE_Projects/airflow29_home/dags/nyc_taxi_datalake/data/transformed/nyc_taxi_transformed_20250821T160643.parquet
+Timestamp: 20250821T160643
+# In real implementation, this would be a binary DuckDB file
+# Created by: CREATE TABLE nyc_taxi AS SELECT * FROM 'transformed_file.parquet'
